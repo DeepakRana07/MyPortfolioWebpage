@@ -1,0 +1,155 @@
+.firstcontainer{
+  background-color:  #C8F2EF;
+  text-align: center;
+  padding-top: 10%;
+
+
+}
+.bottomcloud{
+  position: absolute;
+  left: 22%;
+
+}
+.topcloud{
+  position: absolute;
+
+  right:26%;
+  top:30px;
+
+  /* left: 23; */
+}
+
+body{
+  font-family:'Merriweather', serif;
+  text-align: center;
+
+
+ }
+  .lastpara{
+     color: #EAF6F6;
+       font-family:'Merriweather', serif;
+       font-size: 0.75rem;
+       margin: 0;
+
+  }
+h1{
+  margin:0 auto;
+  width:28%;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.235rem;
+  color: #66BFBF;
+}
+
+
+.skills-row{
+  width:50%;
+  margin:auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2;
+  /* clear: left; */
+
+}
+
+.insidemid{
+  width: 30%;
+
+  margin: 100px auto 100px auto;
+  /* margin-bottom: 100px; */
+  line-height: 2;
+}
+.insidefourth{
+  width: 30%;
+  margin: 100px auto  0 auto;
+  line-height: 2;
+}
+
+
+
+h3 {
+  font-family:'Merriweather', serif;
+  font-size: 1.4rem;
+  color: #11999E;
+  font-weight: normal;
+  /* clear: left; */
+
+}
+
+hr{
+  border-style: none;
+  /* height: 12px; */
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 7px;
+  width:41px;
+  margin: 50px auto 50px auto;
+
+
+}
+.insidefoot{
+   line-height: 5;
+  background-color: #66BFBF;
+  /* display: inline-block; */
+
+
+}
+ a{
+  color:  #11999E;
+  /* padding: 0 10px 0 10px; */
+  text-decoration: none;
+   margin : 40px  10px  0  10px
+}
+
+a:hover{
+  background-color:  #EAF6F6;
+}
+ h2 {
+  font-size:2rem;
+  line-height: 2;
+   color:#66BFBF;
+}
+input{
+  background-color:#11999E;
+  color: white;
+  font-weight:bold;
+  width: 150px;
+  font-size: 20px;
+  font-family: sans-serif;
+
+  border-radius: 14px;
+  height: 45px;
+
+}
+.mybutton{
+  padding: 10px 5px 10px 4px;
+}
+input:hover{
+  background-color: #66BFBF;
+}
+
+
+
+.myimage{
+  margin-top: 20px;
+  width: 200px;
+  height:200px;
+  border-radius: 50%;
+}
+.myskills
+{
+  /* height: 350px; */
+  width:25%;
+  float:left;
+  margin-right: 30px;
+  /* text-align: left; */
+  /* border-radius: 50%; */
+
+}
+.myprog{
+  /* height: 350px; */
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
